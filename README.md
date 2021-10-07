@@ -1,4 +1,4 @@
-# Preparing Satellite Environment
+# Preparing the Satellite Environment
 
 In Part A of the tutorial we will prepare the Satellite environment. 
 
