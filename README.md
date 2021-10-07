@@ -21,12 +21,12 @@ On your Red Hat portal customer page, click the Subscriptions tab in the upper l
 
 Click the Subscription Allocations tab found near the top middle portion of the Red Hat Customer Portal.  
 
-![Click Subscription Allocation tab](images/pic04.jpg)  
+![Click Subscription Allocation tab](images/pic04.png)  
 
 Click the blue Create New subscription allocation button.  
 
-![Click the blue Create New Subscription allocation button](images/pic05.jpg)  
+![Click the blue Create New Subscription allocation button](images/pic05.png)  
 
 On the Create a New Subscription Allocation page give the manifest a name and chose the version of Satellite that will use the manifest.  In our example we are creating manifest for the Moline Operations team and adding the manifest to our Satellite 6.9 environment.  Click the blue Create button to continue.
 
-![Click the Create button](images/pic06.jpg)  
+![Click the Create button](images/pic06.png)  
