@@ -83,7 +83,7 @@ You will now see the Organziations > Edit Operations Department page.  Click the
 
 ![Click cancel button](/images/sat06.png)
 
-Now we will add a location for our organization. We can use a location to logically map geographically separate areas that reside inside an organzation.  On the side menu click Adminster -> Locations.  
+Now we will add a location for our organization. We can use a location to logically map geographically separate to an organzation.  On the side menu click Adminster -> Locations.  
 
 ![Administer -> Locations](/images/sat07.png)   
 
@@ -95,7 +95,7 @@ Fill in the Name field and optionally add a description.  Now click the blue Sub
 
 ![Click location Submit button](/images/sat09.png) 
 
-After clicking the blue Submit button you will be returned to the Locations > Edit Moline page.  
+After clicking the blue Submit button you will be returned to the Locations > Edit Moline page.  We will now import the manifest into Satellite for Operaions organziation.
 
 
 
