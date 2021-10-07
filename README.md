@@ -55,4 +55,13 @@ We can now logout of the Red Hat customer portal.
 
 ### Creating an Organization and Importing the Manifest in Satellite
 
-Let's login to Satellite.  
+Login to the Satellite console by entering [http://sat01.example.com](http://sat01.example.com) for the Satellite url.  Satellite will redirect the browser to Satellite's secure login page.  You will need to accept Satellite's certificate for your browser.  
+
+Enter the user id and password and click Login button.  
+
+![Click Login button](/images/sat01.png)  
+
+You are now at the Satellite home screen.  
+
+![Satellite Home Srceen](/images/sat02.png)  
+
