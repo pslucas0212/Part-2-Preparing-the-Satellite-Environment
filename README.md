@@ -65,3 +65,21 @@ You are now at the Satellite home screen.
 
 ![Satellite Home Srceen](/images/sat02.png)  
 
+Before we import the manifest, we will first create an Organization in Satellite.  Organizations are used to manage content related functions such product management, repositories and content views.  Satellite can support mutliple organziations if that makes sense for your envionrment.  Maybe you want to split content between US and European based manufacturing with two organizational views.  You might create Ogranizations based on business units or deparatments.  In this tutorial we will create an organzation for the operations organization.  
+
+On the side menu click Adminster -> Organziations.  
+
+![Administer -> Organizations](/images/sat03.png)  
+
+On the Organizations page click the blue New Organization button in the upper right of the Satellite console.
+
+![New Organziation](/images/sat04.png) 
+
+Fill in the Name and Label fieds and click the blue Submit button.  
+
+![Click Submit button](/images/sat05.png) 
+
+You will now see the Organziations > Edit Operations Department page.  Click the cancel button.
+
+![Click cancel button](/images/sat06.png)
+
