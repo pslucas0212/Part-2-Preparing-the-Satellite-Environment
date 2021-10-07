@@ -95,7 +95,17 @@ Fill in the Name field and optionally add a description.  Now click the blue Sub
 
 ![Click location Submit button](/images/sat09.png) 
 
-After clicking the blue Submit button you will be returned to the Locations > Edit Moline page.  We will now import the manifest into Satellite for Operaions organziation.
+After clicking the blue Submit button you will be returned to the Locations > Edit Moline page.  
 
+We will now import the manifest into Satellite for Operaions organziation.  
 
+On the side menu click Content -> Subscriptions.  
+
+![Content -> Subscriptions](/images/sat10.png)   
+
+Before we import the manifest into Satellite, make sure Satellite is set to the Operations Department organizationa and the moline location.  You will see the current organization and location near the top left of the Satellite Console.  If the Operations Department and moline are not set as the organziation and location, click on each respective drop down to chose them.  
+
+Click on the blue Import a Manfiest button.  
+
+![Import Manifest](/images/sat11.png)   
 
