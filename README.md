@@ -1,0 +1,1 @@
+# pslucas0212-RedHat-Satellite-VM-Provisioning-to-vSphere-Tutorial-PartA
