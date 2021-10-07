@@ -51,5 +51,8 @@ Click the Export Manifest button to download the manifest that you just created.
 
 ![Click Export Manifest](images/pic11.png) 
 
+We can now logout of the Red Hat customer portal.  
 
+### Creating an Organization and Importing the Manifest in Satellite
 
+Let's login to Satellite.  
