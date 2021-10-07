@@ -83,3 +83,19 @@ You will now see the Organziations > Edit Operations Department page.  Click the
 
 ![Click cancel button](/images/sat06.png)
 
+Now we will add a location for our organization. We can use a location to logically map geographically separate areas that reside inside an organzation.  On the side menu click Adminster -> Locations.  
+
+![Administer -> Locations](/images/sat07.png)   
+
+On the Locations page click the blue New Location button located towards the top right of the screen.  
+
+![Click New Location button](/images/sat08.png) 
+
+Fill in the Name field and optionally add a description.  Now click the blue Submit button to create the location.  
+
+![Click location Submit button](/images/sat09.png) 
+
+After clicking the blue Submit button you will be returned to the Locations > Edit Moline page.  
+
+
+
