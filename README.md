@@ -30,3 +30,26 @@ Click the blue Create New subscription allocation button.
 On the Create a New Subscription Allocation page give the manifest a name and chose the version of Satellite that will use the manifest.  In our example we are creating manifest for the Moline Operations team and adding the manifest to our Satellite 6.9 environment.  Click the blue Create button to continue.
 
 ![Click the Create button](images/pic06.png)  
+
+On the Subscription Allocations >> moline_operations page make that Simple content access is enabled and click on the Subscriptions tab.  
+
+![Click on the subscriptions tab](images/pic07.png)  
+
+On the Subscriptions tab click blue Add Subscriptions button.  
+
+![Click on the Add Subscriptions button](images/pic08.png)  
+
+On the Add Subscriptions to moline_operations page you will see subscriptions available to add to the manifest.  Since we have Simple Content Access enabled we only need to add one subscription per Red Hat product to the manifest.  For this example we are adding one subscription for RHEL Premium with Smart Management. 
+
+![Add subscription ](images/pic09.png)  
+
+If needed scroll down and click the submit button. 
+
+![Click submit button](images/pic10.png)  
+
+Click the Export Manifest button to download the manifest that you just created.
+
+![Click Export Manifest](images/pic11.png) 
+
+
+
