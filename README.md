@@ -109,3 +109,10 @@ Click on the blue Import a Manfiest button.
 
 ![Import Manifest](/images/sat11.png)   
 
+In the Manage Manifest dialog box, we will leave the default settings.  Click the Browse... button and navigate to the location of the manifest file you downloaded and click the Open button.  
+
+![Chose Manifest](/images/sat12.png)  
+
+The manifest will automatically be imported into Satellite and you will next see the Subscriptions page.
+
+![Subscriptions Page](/images/sat14.png)
