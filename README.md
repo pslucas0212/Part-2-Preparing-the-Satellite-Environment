@@ -1,4 +1,6 @@
-# Part 2: Preparing the Satellite Environment
+# Part 2: Preparing the Satellite Environment  
+
+[Tutorial Menu](https://github.com/pslucas0212/RedHat-Satellite-VM-Provisioning-to-vSphere-Tutorial)  
 
 In Part A of the tutorial we will prepare the Satellite environment.  Note: We have Simple Content Access enabled on our customer portal and with any manifests that we create.  See this article to enable Simple Content Access - [add sca reference link here]
 
