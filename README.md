@@ -142,9 +142,6 @@ Click the blue Submit button and we will be returned to the Capsules pages.  The
 
 ![Capsules page](/images/sat55.png)  
 
-Satellite will be updating our DNS records when we provision a VM from Satellite.  The reverse DNS zone record update is defined when we create a subnet in ...
-The forward DNS zone record update is defined with the domain, and we will set that up now in Satellite.
-
 We've completed preparing the Satellite environment.
 
 
