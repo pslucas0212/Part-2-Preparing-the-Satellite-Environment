@@ -144,7 +144,7 @@ Click the blue Submit button and we will be returned to the Capsules pages.  The
 
 Finally let's associate the location and organziation we create.  
 
-On the side menu clock Adminster -> Locations.  
+On the side menu clock Administer -> Locations.  
 
 ![Adminster -> Locations](/images/sat90.png)
 
