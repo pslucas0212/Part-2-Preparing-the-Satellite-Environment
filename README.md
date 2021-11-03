@@ -69,7 +69,7 @@ You are now at the Satellite home screen.
 
 ![Satellite Home Srceen](/images/sat02.png)  
 
-Before we import the manifest, we will first create an Organization in Satellite.  Organizations are used to manage content related functions such product management, repositories and content views.  Satellite can support mutliple organization if that makes sense for your envionrment.  For example, you may want to split content between US and European based manufacturing with two organizational views.  You might create Ogranizations based on business units or deparatments.  In this tutorial we will create a single organzation for the operations organization.  
+Before we import the manifest, we will first create an Organization in Satellite.  Organizations are used to manage content related functions such product management, repositories and content views.  Satellite can support mutliple organization if that makes sense for your envionrment.  For example, you may want to split content between US and European based manufacturing with two organizational views.  You might create Ogranizations based on business units or deparatments.  In this tutorial we will create a single organzation for our fictous Moline operations team.  
 
 On the side menu click Adminster -> Organziations.  
 
@@ -113,7 +113,7 @@ Click on the blue Import a Manfiest button.
 
 ![Import Manifest](/images/sat11.png)   
 
-In the Manage Manifest dialog box, we will leave the default settings.  Click the Browse... button and navigate to the location of the manifest file you downloaded and click the Open button.  
+In the Manage Manifest dialog box, we will leave the default settings.  Click the Browse... button. A navigation dialog box will popup.  Navigate to the location of the manifest file you downloaded and click the Open button.  
 
 ![Chose Manifest](/images/sat12.png)  
 
@@ -121,7 +121,7 @@ The manifest will automatically be imported into Satellite and you will next see
 
 ![Subscriptions Page](/images/sat14.png)
 
-Finally we will add the Operations Department organization and the moline Location to our Satellite instances.  Technically we are adding it to the Capsule Server running on our Satellite instance.  On the left naviagion bar, click Infrastructure -> Capsules
+We will now add the Operations Department organization and the moline Location to our Satellite instances.  Technically we are adding it to the Capsule Server running on our Satellite instance.  At the top of the console change the Organziation to Any Organziation and Locations to Any Location.  On the side menu, click Infrastructure -> Capsules
 
 ![Infrastructure -> Capsules](/images/sat51.png)
 
@@ -141,6 +141,22 @@ box.
 Click the blue Submit button and we will be returned to the Capsules pages.  There you will observe that moline is now part of the list of Locations and Operations Department is part of the Organizations list.
 
 ![Capsules page](/images/sat55.png)  
+
+Finally let's associate the location and organziation we create.  
+
+On the side menu clock Adminster -> Locations.  
+
+![Adminster -> Locations](/images/sat90.png)
+
+On the Locations page, clock the moline locations link.  
+
+![Locationss -> moline](/images/sat91.png)
+
+On the Locations > Edit moline page, click the Organizations side tab.  In the Select organizations All Itmes list, move the Operations Department from the All Items list to the Selected items list.  Click the blue Submit button.
+
+![Selection Operations Department](/images/sat92.png)
+
+The Operations Department organization and moline location are now associated.
 
 We've completed preparing the Satellite environment.
 
