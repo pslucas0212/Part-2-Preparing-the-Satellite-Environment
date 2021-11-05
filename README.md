@@ -142,7 +142,7 @@ Click the blue Submit button and we will be returned to the Capsules pages.  The
 
 ![Capsules page](/images/sat55.png)  
 
-Finally let's associate the location and organziation we create.  
+Finally let's associate the location and organziation that we created early.  
 
 On the side menu clock Administer -> Locations.  
 
