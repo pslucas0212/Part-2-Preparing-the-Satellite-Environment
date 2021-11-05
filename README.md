@@ -158,7 +158,7 @@ On the Locations > Edit moline page, click the Organizations side tab.  In the S
 
 The Operations Department organization and moline location are now associated.
 
-We've completed preparing the Satellite environment.
+We have now completed preparing the Satellite environment.
 
 
 
