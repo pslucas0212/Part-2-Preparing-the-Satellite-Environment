@@ -69,7 +69,7 @@ You are now at the Satellite home screen.
 
 ![Satellite Home Srceen](/images/sat02.png)  
 
-Before we import the manifest, we will first create an Organization in Satellite.  Organizations are used to manage content related functions such product management, repositories and content views.  Satellite can support mutliple organization if that makes sense for your envionrment.  For example, you may want to split content between US and European based manufacturing with two organizational views.  You might create Ogranizations based on business units or deparatments.  In this tutorial we will create a single organzation for our fictous Moline operations team.  
+Before we import the manifest, we will first create an Organization in Satellite.  Organizations are used to manage content related activities such as Red Hat product management, repositories and content views.  Satellite can support mutliple organization if that is required for your company and RHEL environments.  For example, you may want to split content between US and European based manufacturing with two organizational views.  You might create Ogranizations based on business units or deparatments.  In this tutorial we will create a single organzation for our fictous Moline operations team.  
 
 On the side menu click Adminster -> Organziations.  
 
