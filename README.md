@@ -83,11 +83,11 @@ Fill in the Name and Label fields and click the blue Submit button.
 
 ![Click Submit button](/images/sat05.png) 
 
-You will now see the Organziations > Edit Operations Department page.  Click the cancel button.
+You will now see the Organizations > Edit Operations Department page.  Click the cancel button.
 
 ![Click cancel button](/images/sat06.png)
 
-Now we will add a location for our organization. We can use a location to logically map geographically separate areas to an organzation.  On the side menu click Adminster -> Locations.  
+Now we will add a location for our organization. We can use a location to logically map geographically separate areas to an organization.  On the side menu click Administer -> Locations.  
 
 ![Administer -> Locations](/images/sat07.png)   
 
@@ -101,15 +101,15 @@ Fill in the Name field and optionally add a description.  Now click the blue Sub
 
 After clicking the blue Submit button you will be returned to the Locations > Edit Moline page.  
 
-We will now import the manifest into Satellite for the Operaions Department organziation.  
+We will now import the manifest into Satellite for the Operations Department organization.  
 
 On the side menu click Content -> Subscriptions.  
 
 ![Content -> Subscriptions](/images/sat10.png)   
 
-Before we import the manifest into Satellite, make sure Satellite is set to the Operations Department organization and the moline location.  You will see the current organization and location settings near the top left of the Satellite Console.  If the Operations Department and moline are not set as the organziation and location, click on each respective drop down to chose the Operations Department and then the moline location.  
+Before we import the manifest into Satellite, make sure Satellite is set to the Operations Department organization and the moline location.  You will see the current organization and location settings near the top left of the Satellite Console.  If the Operations Department and moline are not set as the organization and location, click on each respective drop down to choose the Operations Department and then the moline location.  
 
-Click on the blue Import a Manfiest button.  
+Click on the blue Import a Manifest button.  
 
 ![Import Manifest](/images/sat11.png)   
 
@@ -121,7 +121,7 @@ The manifest will automatically be imported into Satellite and you will next see
 
 ![Subscriptions Page](/images/sat14.png)
 
-We will now add the Operations Department organization and the moline Location to our Satellite instances.  Technically we are adding it to the Capsule Server running on our Satellite instance.  At the top of the console change the Organziation to Any Organziation and Locations to Any Location.  On the side menu, click Infrastructure -> Capsules
+We will now add the Operations Department organization and the moline Location to our Satellite instances.  Technically we are adding it to the Capsule Server running on our Satellite instance.  At the top of the console change the Organization to Any Organization and Locations to Any Location.  On the side menu, click Infrastructure -> Capsules
 
 ![Infrastructure -> Capsules](/images/sat51.png)
 
@@ -129,11 +129,11 @@ Click the Edit button in the far right column of the sat01.example.com server li
 
 ![Click the Edit button](/images/sat52.png)
 
-In the Capsules > Edit sat01.example.com page, click on the Location tab.  And the click moline Locations All Items box to move to the Selected items box.
+In the Capsules > Edit sat01.example.com page, click on the Location tab.  And then click the moline Locations All Items box to move to the Selected items box.
 
 ![Click moline](/images/sat53.png)
 
-Next click on the Organizations tab and follow the same steps above to move Operations Department Orgnaizations All Items box to move to the Selected items
+Next click on the Organizations tab and follow the same steps above to move the Operations Department Organization from the All Items box to the Selected items
 box.  
 
 ![Click Operations Department](/images/sat54.png)
@@ -142,7 +142,7 @@ Click the blue Submit button and we will be returned to the Capsules pages.  The
 
 ![Capsules page](/images/sat55.png)  
 
-Finally let's associate the location and organziation that we created early.  
+Finally let's associate the location and organization that we created early.  
 
 On the side menu clock Administer -> Locations.  
 
@@ -152,7 +152,7 @@ On the Locations page, clock the moline locations link.
 
 ![Locationss -> moline](/images/sat91.png)
 
-On the Locations > Edit moline page, click the Organizations side tab.  In the Select organizations All Itmes list, move the Operations Department from the All Items list to the Selected items list.  Click the blue Submit button.
+On the Locations > Edit moline page, click the Organizations side tab.  In the Select organizations All Items list, move the Operations Department from the All Items list to the Selected items list.  Click the blue Submit button.
 
 ![Selection Operations Department](/images/sat92.png)
 
